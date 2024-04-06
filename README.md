@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=PhD+at+Artificial+Intelligence;Data+Scientist;Deep+Learning+Researcher)](https://hodazamani.github.io/)    
 </div> 
 
-I am an AI researcher who is passionate about developing machine learning and deep learning as well as optimization in various applied problems and ensuring that the advanced technologies we develop are reliable and ethical. I received my Ph.D. degree in artificial intelligence and robatics computing in 2020.
+I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading senior researcher. My expertise as a data scientist and machine learning researcher is reflected in my numerous publications in highly prestigious journals.
 - 🌱 I’m looking for postdoctoral position.
 - 🌱 I'm eager to engage in collaborative projects involving Deep Learning, Machine Learning, and Data Science.
   
