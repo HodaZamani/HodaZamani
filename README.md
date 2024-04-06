@@ -9,7 +9,7 @@
 
 I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading senior researcher. My expertise as a data scientist and machine learning researcher is reflected in my numerous publications in highly prestigious journals.
 - 🌱 I’m looking for postdoctoral position.
-- 🌱 I'm eager to engage in collaborative projects involving Deep Learning, Machine Learning, and Data Science.
+- 🌱 I'm eager to engage in collaborative projects involving deep learning, machine learning, and data science.
   
 ## My research interest fields are:
    -  Machine Learning and Deep Learning
