@@ -4,7 +4,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=PhD+at+Artificial+Intelligence;Data+Scientist;Deep+Learning+Researcher)](https://hodazamani.github.io/)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=PhD+in+Artificial+Intelligence;Data+Scientist;Deep+Learning+Researcher)](https://hodazamani.github.io/)    
 </div> 
 
 I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading senior researcher. My expertise as a data scientist and machine learning researcher is reflected in my numerous publications in highly prestigious journals.
