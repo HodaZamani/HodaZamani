@@ -12,7 +12,7 @@ I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading se
 - 🌱 I'm eager to engage in collaborative projects involving deep learning, machine learning, and data science.
   
 ## My research interest fields are:
-   -  Machine Learning: My interest in machine learning lies in developing algorithms that can interpret complex data structures and improve decision-making processes. I am particularly fascinated by supervised and unsupervised learning methods and their applications in real-world scenarios.
+   -  Machine Learning and Deep Learning
    -  Data Science and Data Analytics 
    -  Artificial Intelligence in Healthcare
    -  Natural Language Processing
@@ -21,7 +21,7 @@ I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading se
    -  Explainable AI(XAI)
 ## Contact Me
  My website is: [Hoda Zamani](https://hodazamani.github.io/)<br>
- [My Google Scholar](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en&user=bpZOZWsAAAAJ)
+ My Google Scholar:[Hoda Zamani](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en&user=bpZOZWsAAAAJ)
  
  📫 My email address: hoda_zamani@yahoo.com
   
