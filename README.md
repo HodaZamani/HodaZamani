@@ -12,8 +12,11 @@ I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading se
 - 🌱 I'm eager to engage in collaborative projects involving deep learning, machine learning, and data science.
   
 ## My research interest fields are:
-   -  Machine Learning and Deep Learning
-   -  Data Science/Data Analytics 
+   -  Machine Learning and Deep LearningMy interest in machine learning lies in developing algorithms that can interpret complex data structures and improve decision-making processes. I am particularly fascinated by supervised and unsupervised learning methods and their applications in real-world scenarios.
+   -  Data Science and Data Analytics 
+   -  Artificial Intelligence in Healthcare
+   -  Natural Language Processing
+   -  Reinforcement Learning 
    -  Computer Vision
    -  Explainable AI(XAI)
 ## Contact Me
