@@ -21,7 +21,7 @@ I am a Ph.D. graduate in artificial intelligence and robotics. I am a leading se
    -  Explainable AI(XAI)
 ## Contact Me
  My website is: [Hoda Zamani](https://hodazamani.github.io/)<br>
- My Google Scholar: [Hoda Zamani](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en&user=bpZOZWsAAAAJ)
+ My Google Scholar: [Hoda Zamani](https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en&user=bpZOZWsAAAAJ)<p>
  📫 My email address: hoda_zamani@yahoo.com
   
 <h2> 🔧 &nbsp;Languages and Tools</h2>
